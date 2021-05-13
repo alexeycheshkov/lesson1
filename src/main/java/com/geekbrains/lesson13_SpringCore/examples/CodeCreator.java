@@ -1,0 +1,5 @@
+package com.geekbrains.lesson13_SpringCore.examples;
+
+public interface CodeCreator {
+    String getClassExample();
+}
